@@ -1,15 +1,13 @@
-== Theme Name: MoGo – Free One Page Html5 Portfolio Page Template
+# Theme Name: MoGo â€“ Free One Page Html5 Portfolio Page Template
 
-== Copyright (c) 2016 BootstrapThemes.co
+## Copyright (c) 2016 BootstrapThemes.co
 
-== http://BootstrapThemes.co
-
-
-Html Created by: http://bootstrapthemes.co
+#http://BootstrapThemes.co
 
 
 
-Psd Created by: --Alexandr Karsakov-- https://www.behance.net/gallery/34430587/MoGo-FREE-One-Page-PSD-Template
+Credits
+Psd Created by: --Alexandr Karsakov
 
 
 Rights: 
@@ -21,7 +19,7 @@ link back to this site is required, however any credit will be much appreciated.
 
 Prohibitions:
 You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
+files downloaded from http://bootstrapthemes.co to any third party Ã¬as isÃ® or as a separate attachment 
 from any of your work. If you wish to promote my resources on your site, you must link back 
 to the resource page where users can find the download and not directly to the download file.
 
