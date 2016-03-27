@@ -2,7 +2,9 @@
 
 
 
-###http://bootstrapthemes.co/item/mogo-free-one-page-html5-portfolio-page-template/
+####http://bootstrapthemes.co/item/mogo-free-one-page-html5-portfolio-page-template/
+
+
 
 
 
@@ -10,8 +12,17 @@
 
 ####Credits
 Psd Created by: --Alexandr Karsakov
+Framework: Bootstrap
 
-#### Copyright (c) 2016 BootstrapThemes.co
+
+
+
+
+
+
+
+
+
 ####Rights: 
 You are permitted to use the resources for any number of personal and commercial projects.
 You may modify the resources according to your requirements and include them into works, 
