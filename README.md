@@ -1,19 +1,43 @@
-## MoGo – Free One Page Html5 Portfolio Page Template
+## MoGo - Free One Page Html5 Portfolio Page Template
 
 
 
 ####http://bootstrapthemes.co/item/mogo-free-one-page-html5-portfolio-page-template/
 
 
+MoGo is a unique, modern single page html template. It�s a perfect for any creative studio, corporate websites, photography or for portfolio.
+
+The MoGo template features a fully responsive framework that looks fantastic on any mobile device for high-quality resolution graphics. It is one-page based design template developed based on Bootstrap v3.3.5.
+
+
+![MoGo - Free One Page Html5 Portfolio Page Template](https://raw.githubusercontent.com/bootstrapthemesco/mogo-free-one-page-html5-portfolio-page-template/master/mogo.jpg)
 
 
 
 
 
 ####Credits
-Psd Created by: --Alexandr Karsakov
+Psd Created by: Abdullah Noman
 
-Framework: Bootstrap
+Bootstrap
+
+jQuery
+
+Owl Carousel
+
+Animate.css
+
+MagnificPopup
+
+Font Awesome
+
+Smooth Scroll
+
+jQuery Waypoints 
+
+LocalScroll  
+
+WOW JS
 
 
 
